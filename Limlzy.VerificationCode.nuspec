@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Limlzy.VerificationCode</title>
+    <authors>杨泉耀</authors>
+    <owners>杨泉耀</owners>
+    <licenseUrl>http://lib.limlzy.me/</licenseUrl>
+    <projectUrl>http://lib.limlzy.me</projectUrl>
+    <iconUrl>http://lib.limlzy.me/Ver.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First Bate</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Limlzy.VerificationCode</tags>
+  </metadata>
+</package>
