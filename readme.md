@@ -21,5 +21,10 @@ creator.CreateImage(10, "jadwxalkjx");
 祝你使用愉快，愉快的改代码。。。
 
 项目具体介绍：
-http://www.coket.me/2017/03/31/%E6%89%93%E9%80%A0%E4%B8%80%E6%AC%BE%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84c%E9%AA%8C%E8%AF%81%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/
-http://www.coket.me/    博客
+
+http://www.coket.me/2017/03/31/打造一款轻量级的c验证码生成器
+
+
+博客：
+
+http://www.coket.me/   
